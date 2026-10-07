@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cherniavski;Ronen;;;
+FN:Ronen Cherniavski
+TITLE:Barrister & Solicitor
+TEL;TYPE=CELL:+14165698965
+EMAIL;TYPE=INTERNET:ronen@cherniavski.ca
+URL:https://ronen.cherniavski.ca
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/ronencherniavski
+ADR;TYPE=WORK:;;;Toronto;Ontario;;Canada
+NOTE:Law • Technology • Business
+END:VCARD
